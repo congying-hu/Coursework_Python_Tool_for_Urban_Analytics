@@ -1,5 +1,25 @@
-The notebook is a course work for Python Tool for Urban Analytics in Urban Analytics at University of Glasgow.
+# Urban Analytics Coursework - Exploring Relationships between Physical Urban Environment and Mental Health
 
-During the Course, I gained a solid foundation and comprehensive knowledge of various data science techniques, including data visualization, data mining, statistical modeling, machine learning, and deep learning with Python programming language.
+This notebook serves as coursework for the Python Tool for Urban Analytics course at the University of Glasgow.
 
-In the coursework, I utilized my urban planning knowledge and focused on my personal interest of public good utilizing spatial data to explore the relationships between physical urban environment and mental health problems at neighborhood level. Based on theory, urban environment variables included neighborhood SES, libraries, bus stops density, museums, retails density, distance to GP and leisure center etc. In order to address spatial autocorrelation occurred in linear regression model, I introduced Geographical Weighted Regression model in this study accounting for spatial autocorrelation. The GWR model effectively captured the spatial heterogeneity in the data and improved adjusted R square. The result indicated that the association between neighborhood characteristics and mental health may vary across the study region indicating that certain neighborhood characteristics may be more influential for mental health in some areas than in others. The reasons for these variations may be due to additional personal or environmental factors and require further analysis in future research.
+## Course Overview
+
+Throughout the course, I acquired a solid foundation and comprehensive knowledge of various data science techniques, including data visualization, data mining, statistical modeling, machine learning, and deep learning using the Python programming language.
+
+## Project Focus
+
+For this coursework, I leveraged my background in urban planning and concentrated on my personal interest in contributing to the public good by utilizing spatial data. The primary goal was to explore the relationships between the physical urban environment and mental health problems at the neighborhood level.
+
+## Methodology
+
+Drawing on urban planning theory, I incorporated various urban environment variables into the analysis. These included neighborhood socioeconomic status (SES), libraries, bus stop density, museums, retail density, distance to general practitioners (GPs), and leisure centers, among others.
+
+To address spatial autocorrelation observed in linear regression models, I introduced the Geographical Weighted Regression (GWR) model. This approach effectively captured spatial heterogeneity in the data, resulting in an improved adjusted R square. The findings indicated that the association between neighborhood characteristics and mental health varies across the study region. This suggests that certain neighborhood characteristics may exert a more significant influence on mental health in specific areas compared to others.
+
+## Future Research
+
+The variations observed in these associations may be attributed to additional personal or environmental factors, necessitating further analysis in future research.
+
+Feel free to explore the notebook for detailed insights and findings.
+
+**Note:** This project is part of the coursework and focuses on a specific aspect of urban analytics and spatial data analysis.
